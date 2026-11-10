@@ -1,0 +1,19 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Raw FTIR datasets
+FTIR-PLASTIC/
+
+# Model files
+*.keras
+*.h5
+*.pth
+*.pt
+
+# Scaler files
+*.npz
+FTIR-PLASTIC/
